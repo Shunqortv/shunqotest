@@ -8,7 +8,7 @@ Manba: @php_bot_kodlari // Dasturchi: @Urolov_29_08
 Kelayotgan yangi yilingiz muborak bo'lsin :)
 */
 ob_start();
-define('API_KEY','2128488467:AAF7kdTIDObaljDMoCrnj4ciU0-xET9c8yw');
+define('API_KEY','1942548412:AAHXGPFcbuo_wFasSnf0_ThELYJO7QuYhic');
    function del($nomi){
    array_map('unlink', glob("$nomi"));
    }
